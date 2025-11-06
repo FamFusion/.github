@@ -1,12 +1,12 @@
-# 👩‍💻👨‍💻 FamFusion Team
+# FamFusion Team
 
-Welcome to **FamFusion**, a project built by a team of junior Computer Science students at the **University of Maryland**.  
+Welcome to **FamFusion**, a project built by a team of Computer Science students at the **University of Maryland, College Park**.  
 
 We’re building a family-focused recipe manager think of it like a password manager, but for recipes! Our goal is to create a secure, easy-to-use app where families and friends can share, organize, and preserve their favorite recipes.  
 
 ---
 
-## 🚀 What We’re Building
+## What We’re Building
 - **FamFusion App** → A full-stack web application with:
   - User profiles with pictures, emails, and preferences
   - Family groups for recipe sharing
@@ -16,15 +16,15 @@ We’re building a family-focused recipe manager think of it like a password man
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend**: React (Vite)  
 - **Backend**: Node.js (Express)  
-- **Database**: SQLite (for dev) → PostgreSQL/MySQL (for deployment)  
+- **Database**: SQLite (Dev) → PostgreSQL/MySQL (Deployment)  
 - **Hosting**: AWS  
 
 ---
 
-## 🌱 About Us
+## About Us
 We are a team of junior CS students at the University of Maryland with interests spanning:  
 - Software engineering  
 - Web development  
@@ -36,7 +36,7 @@ We’re using FamFusion as a way to **apply our coursework to a real project**, 
 
 ---
 
-## 📌 Current Work
+## Current Work
 Our active repo: [FamFusion/FamFusion](https://github.com/FamFusion/FamFusion)  
 - Backend API (Express + SQLite) is up and running  
 - Frontend (React + Vite) is connected to backend  
@@ -44,7 +44,7 @@ Our active repo: [FamFusion/FamFusion](https://github.com/FamFusion/FamFusion)
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 If you’d like to follow our progress or share feedback:  
 - Organization: [github.com/FamFusion](https://github.com/FamFusion)  
 - Team members: See the [Contributors](https://github.com/FamFusion/FamFusion/graphs/contributors) page  
