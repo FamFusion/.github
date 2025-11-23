@@ -10,7 +10,7 @@ We’re building a family-focused recipe manager think of it like a password man
 - **FamFusion App** → A full-stack web application with:
   - User profiles with pictures, emails, and preferences
   - Family groups for recipe sharing
-  - Tags and categories (e.g., “healthy,” “Mexican”)
+  - Tags and categories (e.g., “Healthy,” “Italian”)
   - Favorites and search by name, tag, or contributor
   - Long-term: AI-powered recipe card scanner
 
