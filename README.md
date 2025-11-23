@@ -19,7 +19,7 @@ We’re building a family-focused recipe manager think of it like a password man
 ## Tech Stack
 - **Frontend**: React (Vite)  
 - **Backend**: Node.js (Express)  
-- **Database**: SQLite (Dev) → PostgreSQL/MySQL (Deployment)  
+- **Database**: MongoDB (MongoDB Atlas + Mongoose)
 - **Hosting**: AWS  
 
 ---
@@ -38,7 +38,7 @@ We’re using FamFusion as a way to **apply our coursework to a real project**, 
 
 ## Current Work
 Our active repo: [FamFusion/FamFusion](https://github.com/FamFusion/FamFusion)  
-- Backend API (Express + SQLite) is up and running  
+- Backend API (Express + MongoDB) is up and running  
 - Frontend (React + Vite) is connected to backend  
 - Core features being built: user registration, recipe submission, and search  
 
